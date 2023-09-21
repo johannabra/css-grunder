@@ -1,0 +1,9 @@
+/*en div har display block by default*/
+.box {
+  background-color: rgb(90, 86, 88);
+  width: 60px;
+}
+/* span har display inline by default*/
+.mySpan {
+  background-color: bisque;
+}

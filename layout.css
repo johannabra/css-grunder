@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: rgb(212, 128, 25);
+  padding: 10px 0px 10px 0px;
+  color: aliceblue;
+  text-align: center;
+  font-size: 40px;
+}
+.menu {
+  height: 200px;
+  background-color: bisque;
+  width: 30%;
+  float: left;
+  padding: 20px;
+}
+.content {
+  height: 200px;
+  background-color: rgb(147, 114, 178);
+  float: left;
+  width: 70%;
+  /*opacity: 50%;*/
+  padding: 20px;
+}
+.footer {
+  clear: both;
+  background-color: rgb(250, 215, 239);
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+}

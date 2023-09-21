@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+.box {
+  background-color: rgb(224, 29, 61);
+  color: rgb(252, 209, 201);
+  width: 100px;
+  height: 100px;
+  /*padding: 10px;*/
+  /*
+    border-width: 20px;
+    border-color: black;
+    border-style: solid;
+    */
+
+  border: 20px solid black;
+
+  /*border-left: 20px solid palegoldenrod;
+    margin: 20px;
+  padding-top: 25px;
+  padding-left:
+  15px;*/
+}
+
+/* överkurs ;)*/
+.container {
+  display: inline-block;
+  background-color: aquamarine;
+  padding: 10px 0px 10px 20px;
+}
+.inner {
+  background-color: blueviolet;
+  width: 100px;
+  height: 100px;
+}
